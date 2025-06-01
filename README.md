@@ -25,7 +25,4 @@ A sleek and responsive web-based clone of Spotify's music player interface. Buil
 | CSS3     | Git & GitHub        |
 | JavaScript | Chrome DevTools  |
 
----
-
-### 📁 Folder Structure
 
