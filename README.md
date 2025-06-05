@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone Web App
+# 🎵 Spotify (Lo Sun Lo)
 
 A sleek and responsive web-based clone of Spotify's music player interface. Built using **HTML**, **CSS**, and **JavaScript**, this app mimics the look and feel of Spotify with features like navigation, playlists, and basic music controls.
 
